@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Next.js App Router'a Giriş",
+    "slug": "nextjs-app-router-giris",
+    "content": "Next.js'in en son yönlendirme sistemi olan App Router'ın temellerini ve Pages Router'dan farklarını keşfedin. Bu, modern Next.js uygulamalarının bel kemiğidir.",
+    "date": "2025-01-10"
+  },
+  {
+    "id": 2,
+    "title": "Statik Veri Okuma ve Gösterimi",
+    "slug": "statik-veri-okuma",
+    "content": "Bir JSON dosyasını sunucu bileşeni (Server Component) içinde nasıl okuyacağınızı ve bu verileri sayfada nasıl listeleyeceğinizi öğrenin.",
+    "date": "2025-02-15"
+  },
+  {
+    "id": 3,
+    "title": "Dinamik Route Oluşturma",
+    "slug": "dinamik-route-olusturma",
+    "content": "Next.js App Router'da `[slug]` yapısını kullanarak dinamik sayfaların nasıl oluşturulacağını ve URL parametrelerinin nasıl yakalanacağını inceleyelim.",
+    "date": "2025-03-20"
+  }
+]
